@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <b>My First React App</b>
         <b>Aditya Khoje</b>
-        <b>Jenkins Demo</b>
+        <b>Made changes to test Jenkins pipeline</b>
       </header>
     </div>
   );
